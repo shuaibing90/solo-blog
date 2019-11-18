@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.xysycx.cn/my-github-repos)
 * [Python多版本共存 --deepin 15.11](https://www.xysycx.cn/articles/2019/11/12/1573488619099.html)
 * [全栈工程师技能养成地图](https://www.xysycx.cn/articles/2019/11/05/1572969108020.html)
 * [诗歌随笔](https://www.xysycx.cn/articles/2019/11/04/1572799076883.html)
@@ -29,11 +30,11 @@
 * [薅羊毛啦--免费获取onedrive 5T云存储空间--转载自羊羊自留地](https://www.xysycx.cn/articles/2019/10/10/1570722649169.html)
 * [PCB (Process Control Block)--进程的高级管家](https://www.xysycx.cn/articles/2019/10/08/1570544185891.html)
 * [Deepin系统启动卡LOGO黑屏解决方案](https://www.xysycx.cn/articles/2019/09/22/1569083920580.html)
-* [deepin系统在VMware中安装win10企业版虚拟机(多图预警)](https://www.xysycx.cn/articles/2019/09/12/1568217612271.html)
 
 ### 热门
 
 * [计算机科学与技术考研书籍408(PDF)](https://www.xysycx.cn/articles/2019/09/01/1567344973463.html)
+* [deepin系统在VMware中安装win10企业版虚拟机(多图预警)](https://www.xysycx.cn/articles/2019/09/12/1568217612271.html)
 
 
 
