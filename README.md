@@ -5,8 +5,8 @@
 <h4 align="center"><p align="center"><font color="orange">Everything is an Object</font></p><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=320 height=86 src="//music.163.com/outchain/player?type=2&id=34690331&auto=0&height=66"></iframe></h4>
 <p align="center"><a title="雪月书韵茶香" target="_blank" href="https://github.com/shuaibing90/solo-blog"><img src="https://img.shields.io/github/last-commit/shuaibing90/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/shuaibing90/solo-blog"><img src="https://img.shields.io/github/repo-size/shuaibing90/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/shuaibing90/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/shuaibing90/solo-blog.svg"></a></p>
 
 ### 最新
 
@@ -40,4 +40,4 @@
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
